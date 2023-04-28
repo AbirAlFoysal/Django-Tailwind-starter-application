@@ -1,5 +1,6 @@
 import os
 from pathlib import Path
+# pip install python-dotenv 
 from dotenv import load_dotenv
 load_dotenv() 
 
